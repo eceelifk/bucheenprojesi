@@ -4,7 +4,7 @@ Sadece Frontend kısmı
 ## Kullandıklarım
 
 - *React (Vite la)*
-- *Tailwind CSS (v4):*
+- *Tailwind CSS (v4)*
 
 ## Çalıştırma
 
